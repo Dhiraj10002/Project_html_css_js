@@ -10,9 +10,6 @@ body{
     
 }
 nav{
-    display: flex;
-    justify-content: center;
-    align-items: center;
     padding: 10px;
     gap: 50px;
     font-size: 20px;
