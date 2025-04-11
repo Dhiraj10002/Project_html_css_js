@@ -1,0 +1,55 @@
+html{
+    margin:0;
+}
+span{
+    display: block;
+}
+nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    gap: 50px;
+    font-size: 30px;
+    margin-top: 10px;
+    
+}
+nav a{
+    text-decoration: none;
+    background-color:#007bff;
+    color: aliceblue;
+    border-radius: 5px;
+    border: none;
+    padding: 10px 20px;
+    color: rgb(82, 3, 65);
+    border-radius: 10px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+ nav a:hover{
+    background-color: #f7f7f7;
+}
+.canvas{
+    margin: 100px auto 100px;
+    width: 80%;
+    text-align: center;
+}
+.button{
+    width: 100px;
+    height: 100px;
+    border:solid black 2px;
+    display: inline-block;
+    padding: 10px;
+}
+#grey{
+    background-color: grey;
+}
+#aqua{
+    background-color: aqua;
+}
+#yellow{
+    background-color:yellow;
+}
+#orange{
+    background-color: orange;
+}
